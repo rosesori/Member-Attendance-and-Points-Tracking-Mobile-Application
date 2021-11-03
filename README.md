@@ -1,4 +1,5 @@
-# Attendance and Member-point tracking Mobile Application
+# Member Attendance and Points Tracking Mobile Application
+# ABOUT
 
 **Developers:** Leilani Wilkinson and Rose Soriano
 
